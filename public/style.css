@@ -695,8 +695,18 @@ video {
   background-color: #000;
 }
 
+.bg-blueishblack {
+  background-color: #1D1F24;
+}
+
+
+
 .bg-white {
   background-color: #fff;
+}
+
+.bg-offwhite {
+  background-color: #E7E7E7;
 }
 
 .bg-gray-100 {
@@ -729,6 +739,10 @@ video {
 
 .bg-gray-800 {
   background-color: #2d3748;
+}
+
+.bg-gray-850 {
+  background-color: #45474E;
 }
 
 .bg-gray-900 {
